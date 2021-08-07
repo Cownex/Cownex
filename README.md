@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cownex
-- 👀 I’m interested in Minecraft Servers and Web Development.
-- 🌱 I’m currently working on IslandCraft^^
-- 📫 How to reach me? Write me a Mail: info@cownex.de, a pm on Twitter: @cownexx or on Discord: Cownex#0001
+- 👀 I’m interested in Game Developement and Webdesign
+- 🌱 I’m currently working on Secret Projects lmao
+- 📫 How to reach me? Write me a a pm on Twitter: @cownexx or on Discord: Cownex#0001
 
 
 
