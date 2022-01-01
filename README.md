@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Cownex
+- 👀 I’m interested in Webdevelopement with Python
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me at Discord Cownex#0001, at Twitter @cownexx and by mail mail@cownex.de
