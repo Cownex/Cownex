@@ -1,4 +1,6 @@
-Hi I'am Cownex :D
-Python and Webdeveloper
+Hi I'am Cownex :D <br>
+Python and Webdeveloper <br>
+Contact: contact@cownex.de
+
 
 
