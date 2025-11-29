@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **Discord @cownex**
 
+- 👨‍💻 All of my projects are available at [https://tspl-studios.de/portfolio](https://tspl-studios.de/portfolio)
+
+- 📝 I regularly write articles on [https://tspl-studios.de/blogs](https://tspl-studios.de/blogs)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/cownexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cownexx" height="30" width="40" /></a>
